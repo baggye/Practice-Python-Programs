@@ -18,3 +18,4 @@ for i in range(t):
         print('DUCK')
     else:
         print('NONE')
+    #this is a comment
